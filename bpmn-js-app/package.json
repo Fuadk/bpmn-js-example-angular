@@ -21,6 +21,7 @@
     "@angular/router": "^17.2.1",
     "bpmn-js": "^17.0.1",
     "core-js": "^3.6.5",
+    "ng-event-bus": "^6.0.0",
     "rxjs": "~6.6.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.14.4"
