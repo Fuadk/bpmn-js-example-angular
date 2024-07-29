@@ -47,6 +47,7 @@ import { from, Observable, Subscription } from 'rxjs';
   <button kendoButton style="vertical-align: top;" (click)="editElements();">:Mod:editElements</button> 
   <button kendoButton style="vertical-align: top;" (click)="editElements2();">Mod:editElements2</button> 
   <button kendoButton style="vertical-align: top;" (click)="colorElements();">Mod:colorElements</button> 
+   <button kendoButton style="vertical-align: top;" (click)="colorElements();">Mod:TestcolorElements</button> 
   
   
   
