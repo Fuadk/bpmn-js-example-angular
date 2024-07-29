@@ -1,0 +1,17 @@
+
+.gold  {
+    background-color: #ffba80;
+  }
+  .green  {
+    background-color: #b2f699;
+    color: #b2f699;
+    fill: #b2f699;
+  }
+  .diagram-container {
+    height: 100%;
+    width: 100%;
+  }
+
+  .highlight:not(.djs-connection) .djs-visual > :nth-child(1) {
+    fill: green !important; /* color elements as green */
+  }
